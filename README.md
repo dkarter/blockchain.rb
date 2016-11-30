@@ -1,5 +1,7 @@
 # Blockchain.rb
 
+[![CircleCI](https://circleci.com/gh/dkarter/blockchain.rb.svg?style=svg)](https://circleci.com/gh/dkarter/blockchain.rb)
+
 This is a POC blockchain data structure written in Ruby.
 
 I wrote this gem as a learning exercise to better understand how Bitcoin works.
